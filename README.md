@@ -1,20 +1,10 @@
 # Sample Project
 
-## Sample line 1
+I know how to write hello world in many language...
 
-- Content 1
+with chatGPT
 
-## Sample line 2
-
-- Content 2
-
-## Sample line 3
-
-- Content 3
-- Content 3.1
-- View my [YouTube](https://www.youtube.com) channel
-
-example format
+### Example format
 
 **bold**
 
